@@ -4,7 +4,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+    padding: 5px;
+    background-color: lightgray;
 }
 
 body {
@@ -29,4 +30,14 @@ h2 {
 
 a {
     color: darkred;
+}
+
+.card {
+    margin: auto;
+    background-color: white;
+    max-width: 50%;
+}
+
+body .colored-div {
+    background-color: lightgray;
 }
